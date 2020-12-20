@@ -1,0 +1,1 @@
+start "" /wait cmd /c "echo Hello Master, My battery has dropped to 10 percent, I need to charge!&echo(&pause"
